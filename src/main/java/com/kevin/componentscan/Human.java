@@ -1,5 +1,6 @@
-package com.kevin.springCoreRecap;
+package com.kevin.componentscan;
 
 public interface Human {
 	public void speak();
+	
 }
